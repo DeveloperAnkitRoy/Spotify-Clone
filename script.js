@@ -11,12 +11,12 @@ let songItems =Array.from(document.getElementsByClassName('songItem'));
 
 
 let songs = [
-    {songName: "Warriyo - Mortals[NCS Release]", filePath:"songs/1.mp3", coverPath:"covers/1.jpg"},
-    {songName: "Cilelo - Huma-Huma", filePath:"songs/2.mp3", coverPath:"covers/2.jpg"},
-    {songName: "DEAF KEV - Invincible [NCS Release]", filePath:"songs/3.mp3", coverPath:"covers/3.jpg"},
-    {songName: "Rabba - Salam-e-Ishq", filePath:"songs/4.mp3", coverPath:"covers/4.jpg"},
-    {songName: "Sakhiyaan - Salam-e-Ishq", filePath:"songs/5.mp3", coverPath:"covers/5.jpg"},
-    {songName: "Bhula Dena - Salam-e-Ishq", filePath:"songs/6.mp3", coverPath:"covers/6.jpg"},
+    {songName: "Love-Me-Like-You-Do", filePath:"songs/Elena-Gray-Love-Me-Like-You-Do.mp3", coverPath:"covers/1.jpg"},
+    {songName: "Cilelo - Huma-Huma", filePath:"songs/Elena-Gray-Love-Me-Like-You-Do.mp3", coverPath:"covers/2.jpg"},
+    {songName: "DEAF KEV - Invincible [NCS Release]", filePath:"songs/Elena-Gray-Love-Me-Like-You-Do.mp3", coverPath:"covers/3.jpg"},
+    {songName: "Rabba - Salam-e-Ishq", filePath:"songs/Elena-Gray-Love-Me-Like-You-Do.mp3", coverPath:"covers/4.jpg"},
+    {songName: "Sakhiyaan - Salam-e-Ishq", filePath:"songs/Elena-Gray-Love-Me-Like-You-Do.mp3", coverPath:"covers/5.jpg"},
+    {songName: "Bhula Dena - Salam-e-Ishq", filePath:"songs/Elena-Gray-Love-Me-Like-You-Do.mp3", coverPath:"covers/6.jpg"},
 ]
 
 songItems.forEach((element, i)=>{
